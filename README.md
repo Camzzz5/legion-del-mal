@@ -11,7 +11,7 @@
 ![Licencia](https://img.shields.io/github/license/Camzzz5/legion-del-mal)
 
 
-# 🦹‍♂️ La Legión del Mal version camilo
+# 🦹‍♂️ La Legión del Mal version camilo --desde remoto
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
