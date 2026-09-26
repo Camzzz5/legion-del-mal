@@ -12,7 +12,7 @@
 
 
 
-# 🦹‍♂️ La Legión del Mal version camilo --desde remoto y local
+# 🦹‍♂️ La Legión del Mal version camilo
 
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
